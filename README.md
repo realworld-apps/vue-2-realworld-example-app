@@ -6,9 +6,11 @@ Project demo is available at https://vue-vuex-realworld.netlify.app/
 
 This codebase demonstrates a fully fledged frontend application built with **Vue 2**, including CRUD operations, authentication, routing, pagination, and more — backed by the shared RealWorld end-to-end test suite.
 
+> ℹ️ This is the frozen **Vue 2** reference. The maintained **Vue 3** version of this codebase lives at [realworld-apps/vue-realworld-example-app](https://github.com/realworld-apps/vue-realworld-example-app).
+
 ## ⚠️ Do not start a new project from this codebase
 
-**Vue 2 reached end of life on December 31, 2023.** It no longer receives features, bug fixes, or security patches, and neither do Vuex 3 / Vue Router 3. This repository is kept as a *reference implementation* of the RealWorld spec for the Vue 2 ecosystem — useful for studying patterns, comparing frameworks, or testing backends against a known-good frontend. It is **not** a sound base for a serious new project: start from [Vue 3](https://vuejs.org/) (or another maintained framework) instead.
+**Vue 2 reached end of life on December 31, 2023.** It no longer receives features, bug fixes, or security patches, and neither do Vuex 3 / Vue Router 3. This repository is kept as a *reference implementation* of the RealWorld spec for the Vue 2 ecosystem — useful for studying patterns, comparing frameworks, or testing backends against a known-good frontend. It is **not** a sound base for a serious new project: start from [Vue 3](https://vuejs.org/) (or another maintained framework) instead — for this very app, see the [Vue 3 version](https://github.com/realworld-apps/vue-realworld-example-app).
 
 If your company runs an existing Vue 2 application that cannot migrate yet, [HeroDevs Never-Ending Support for Vue 2](https://www.herodevs.com/support/nes-vue) provides commercial security patches as a drop-in replacement. It is the option [officially endorsed by the Vue team](https://v2.vuejs.org/lts/), built in partnership with Vue's creator and core team members.
 
